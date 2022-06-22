@@ -1,0 +1,13 @@
+{
+  "name": "sq012week1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "28.1.1",
+    "npm-install": "1.8.15"
+  }
+}
